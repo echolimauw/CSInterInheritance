@@ -8,7 +8,7 @@ namespace CSIntermediateInheritance
 
         static void Main(string[] args)
         {
-            var customer = new Customer;
+            var customer = new Customer();
         }
     }
 }
