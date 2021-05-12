@@ -2,6 +2,7 @@
 
 namespace CSIntermediateInheritance
 {
+
     partial class Program
     {
 
