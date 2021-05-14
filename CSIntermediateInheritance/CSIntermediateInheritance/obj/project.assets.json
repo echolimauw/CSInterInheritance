@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Amazon/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Amazon.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Amazon.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Amazon/1.0.0": {
+      "type": "project",
+      "path": "../Amazon/Amazon.csproj",
+      "msbuildProject": "../Amazon/Amazon.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Amazon >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\eleah\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\eleah\\source\\repos\\CSIntermediateInheritance\\Amazon\\Amazon.csproj": {
+              "projectPath": "C:\\Users\\eleah\\source\\repos\\CSIntermediateInheritance\\Amazon\\Amazon.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
