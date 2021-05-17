@@ -1,0 +1,16 @@
+C:\Users\eleah\source\repos\CSIntermediateInheritance\CSIntermediateInheritance\obj\Debug\net5.0\CSIntermediateInheritance.csprojAssemblyReference.cache
+C:\Users\eleah\source\repos\CSIntermediateInheritance\CSIntermediateInheritance\obj\Debug\net5.0\CSIntermediateInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eleah\source\repos\CSIntermediateInheritance\CSIntermediateInheritance\obj\Debug\net5.0\CSIntermediateInheritance.AssemblyInfoInputs.cache
+C:\Users\eleah\source\repos\CSIntermediateInheritance\CSIntermediateInheritance\obj\Debug\net5.0\CSIntermediateInheritance.AssemblyInfo.cs
+C:\Users\eleah\source\repos\CSIntermediateInheritance\CSIntermediateInheritance\obj\Debug\net5.0\CSIntermediateInheritance.csproj.CoreCompileInputs.cache
+C:\Users\eleah\source\repos\CSIntermediateInheritance\CSIntermediateInheritance\bin\Debug\net5.0\CSIntermediateInheritance.exe
+C:\Users\eleah\source\repos\CSIntermediateInheritance\CSIntermediateInheritance\bin\Debug\net5.0\CSIntermediateInheritance.deps.json
+C:\Users\eleah\source\repos\CSIntermediateInheritance\CSIntermediateInheritance\bin\Debug\net5.0\CSIntermediateInheritance.runtimeconfig.json
+C:\Users\eleah\source\repos\CSIntermediateInheritance\CSIntermediateInheritance\bin\Debug\net5.0\CSIntermediateInheritance.runtimeconfig.dev.json
+C:\Users\eleah\source\repos\CSIntermediateInheritance\CSIntermediateInheritance\bin\Debug\net5.0\CSIntermediateInheritance.dll
+C:\Users\eleah\source\repos\CSIntermediateInheritance\CSIntermediateInheritance\bin\Debug\net5.0\ref\CSIntermediateInheritance.dll
+C:\Users\eleah\source\repos\CSIntermediateInheritance\CSIntermediateInheritance\bin\Debug\net5.0\CSIntermediateInheritance.pdb
+C:\Users\eleah\source\repos\CSIntermediateInheritance\CSIntermediateInheritance\obj\Debug\net5.0\CSIntermediateInheritance.dll
+C:\Users\eleah\source\repos\CSIntermediateInheritance\CSIntermediateInheritance\obj\Debug\net5.0\ref\CSIntermediateInheritance.dll
+C:\Users\eleah\source\repos\CSIntermediateInheritance\CSIntermediateInheritance\obj\Debug\net5.0\CSIntermediateInheritance.pdb
+C:\Users\eleah\source\repos\CSIntermediateInheritance\CSIntermediateInheritance\obj\Debug\net5.0\CSIntermediateInheritance.genruntimeconfig.cache
