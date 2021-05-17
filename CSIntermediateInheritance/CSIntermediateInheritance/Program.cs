@@ -1,4 +1,5 @@
 ﻿using System;
+using Amazon;
 
 namespace CSIntermediateInheritance
 {
@@ -9,6 +10,7 @@ namespace CSIntermediateInheritance
         static void Main(string[] args)
         {
             var customer = new Customer();
+            Amazon.RateCalculator calculator = new RateCalculator();
         }
     }
 }
