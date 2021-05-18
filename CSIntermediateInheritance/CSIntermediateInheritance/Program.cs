@@ -8,7 +8,8 @@ namespace CSIntermediateInheritance
 
         static void Main(string[] args)
         {
-            var car = new Car("ABC12345");
+            Text text = new Text();
+            Shape shape = text;
         }
     }
 }
