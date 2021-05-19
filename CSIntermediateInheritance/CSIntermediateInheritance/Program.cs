@@ -1,4 +1,7 @@
 ﻿using System;
+using System.IO;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace CSIntermediateInheritance
 {
@@ -8,13 +11,14 @@ namespace CSIntermediateInheritance
 
         static void Main(string[] args)
         {
-            Text text = new Text();
-            Shape shape = text;
+            StreamReader reader = new StreamReader(new FileStream());
 
-            text.Width = 200;
-            shape.Width = 100;
+            var list = new ArrayList();
+            list.Add(1);
+            list.Add("Jim");
+            list.Add(new Text());
 
-            Console.WriteLine(text.Width);
+            var anotherList = new List<Shape>();
         }
     }
 }
